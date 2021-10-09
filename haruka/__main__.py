@@ -29,13 +29,13 @@ You know how hard it is sometimes to manage group. So here is the solution for y
 • Activate Anti-spam protection in your BM by this command : 
   /antispam on 
 
-• Made from the source code of [ʙᴀɢɪɴᴅᴀ sᴇᴍᴘᴀᴋ ᴅᴇᴀᴅᴘᴏᴏʟ•ᵐˢ](t.me/ImThelastKingMs)
+• Made from the source code of [ʙᴀɢɪɴᴅᴀ sᴇᴍᴘᴀᴋ ᴅᴇᴀᴅᴘᴏᴏʟ•ᵐˢ](t.me/isIam07)
 
 • Click /help or Help button below to find out more about how to use me to my full potential.
 
 • Sponsored by :
-✓ [GROUP SUPPORT](t.me/joinsiniiajg)
-✓ [CHANNEL SUPPORT](t.me/RAXSSTORY)
+✓ [GROUP SUPPORT](t.me/isIam07)
+✓ [CHANNEL SUPPORT](t.me/isIam07)
 """
 
 
